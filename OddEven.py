@@ -6,4 +6,4 @@ def checkNumType(num):
     else:   
         print(num," is odd")
 
-checkNumType(int(input("Ënter any whole number: "))) #wrapping up the input function in the parentethes of int type cater inorder to check whether input is integer
+checkNumType(int(input("Ënter any whole number: "))) #wrapping up the input function in the parentethes of int type caster inorder to ensure input is integer
